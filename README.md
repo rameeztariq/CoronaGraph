@@ -2,9 +2,9 @@
 This repository represents corona cases of graph month by month on the daily basis.
 
 # Pre requisites libraries
-matplotlib
-seaborn
+matplotlib,
+seaborn,
 pandas
 
-#Python Version
+# Python Version
 3.7
